@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Menu, X, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useAuth } from "@/hooks/useAuth";
-import logo from "/cleango-logo.png";
+import logo from "@/assets/peintyhome-logo.png";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);

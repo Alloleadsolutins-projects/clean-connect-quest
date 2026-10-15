@@ -5,7 +5,7 @@ import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
 import { AdminSidebar } from "@/components/admin/AdminSidebar";
 import { Button } from "@/components/ui/button";
 import { LogOut } from "lucide-react";
-import logo from "/cleango-logo.png";
+import logo from "@/assets/peintyhome-logo.png";
 
 const AdminLayout = () => {
   const { user, hasRole, loading, signOut } = useAuth();

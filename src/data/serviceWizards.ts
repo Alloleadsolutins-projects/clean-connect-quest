@@ -105,7 +105,7 @@ export const serviceWizards: Record<string, ServiceWizardConfig> = {
       ],
     },
     formules: [
-      { slug: "accent", name: "Mur d"accent", badge: "Déco", price: 150, features: ["1 mur", "Teinte au choix"] },
+      { slug: "accent", name: "Mur d'accent", badge: "Déco", price: 150, features: ["1 mur", "Teinte au choix"] },
       { slug: "piece", name: "Pièce complète", badge: "Recommandé", price: 220, popular: true, features: ["Tous les murs", "Échantillon préalable", "Finition cirée"] },
       { slug: "signature", name: "Création signature", badge: "Artisanal", price: 350, features: ["Motifs sur mesure", "Pigments naturels", "Garantie 5 ans"] },
     ],
@@ -180,7 +180,7 @@ export const serviceWizards: Record<string, ServiceWizardConfig> = {
     },
     formules: [
       { slug: "traitement", name: "Traitement simple", badge: "Essentiel", price: 70, features: ["Anti-moisissure", "Peinture hydrofuge"] },
-      { slug: "etancheite", name: "Étanchéité complète", badge: "Recommandé", price: 120, popular: true, features: ["Diagnostic", "Résine d"étanchéité", "2 couches"] },
+      { slug: "etancheite", name: "Étanchéité complète", badge: "Recommandé", price: 120, popular: true, features: ["Diagnostic", "Résine d'étanchéité", "2 couches"] },
       { slug: "garantie", name: "Solution garantie", badge: "Premium", price: 180, features: ["Membrane armée", "Finition circulable", "Garantie 10 ans"] },
     ],
   },

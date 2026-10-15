@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Phone, Mail, Globe, Instagram, Facebook, MapPin } from "lucide-react";
-import logo from "/cleango-logo.png";
+import logo from "@/assets/peintyhome-logo.png";
 import { COMPANY } from "@/lib/company";
 import { allServices } from "@/data/services";
 

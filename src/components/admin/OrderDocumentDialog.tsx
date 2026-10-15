@@ -35,7 +35,7 @@ const OrderDocumentDialog = ({ order, type, onClose }: Props) => {
     if (!order) return;
     setLines([
       {
-        label: order.service_label || order.services?.name || "Prestation de nettoyage",
+        label: order.service_label || order.services?.name || "Prestation de peinture",
         qty: 1,
         price: Number(order.total_price || 0),
       },

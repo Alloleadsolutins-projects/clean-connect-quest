@@ -16,12 +16,12 @@ const TermsPage = () => (
       <div className="container max-w-3xl prose prose-sm">
         <h2 className="text-2xl font-bold mb-4">1. Objet</h2>
         <p className="text-muted-foreground mb-6">
-          Les présentes conditions générales régissent l'utilisation de la plateforme Peintyhome et les services de lavage à domicile proposés. En utilisant nos services, vous acceptez l'intégralité de ces conditions.
+          Les présentes conditions générales régissent l'utilisation de la plateforme Peintyhome et les services de peinture, décoration et rénovation proposés. En utilisant nos services, vous acceptez l'intégralité de ces conditions.
         </p>
 
         <h2 className="text-2xl font-bold mb-4">2. Services proposés</h2>
         <p className="text-muted-foreground mb-6">
-          Peintyhome propose des services de lavage automobile et de nettoyage à domicile. Les détails, prix et durées de chaque service sont indiqués sur notre plateforme. Les prix sont exprimés en Dirhams (DH) et incluent toutes les taxes applicables.
+          Peintyhome propose des services de peinture intérieure et extérieure, décoration murale, tadelakt et rénovation. Les détails, prix et durées de chaque service sont indiqués sur notre plateforme. Les prix sont exprimés en Dirhams (DH) et incluent toutes les taxes applicables.
         </p>
 
         <h2 className="text-2xl font-bold mb-4">3. Réservation</h2>
@@ -36,7 +36,7 @@ const TermsPage = () => (
 
         <h2 className="text-2xl font-bold mb-4">5. Garantie de satisfaction</h2>
         <p className="text-muted-foreground mb-6">
-          Si le résultat ne vous satisfait pas, nous nous engageons à refaire le lavage gratuitement ou à vous rembourser intégralement.
+          Si le résultat ne vous satisfait pas, nous nous engageons à corriger les finitions gratuitement ou à vous rembourser intégralement.
         </p>
 
         <h2 className="text-2xl font-bold mb-4">6. Responsabilité</h2>
